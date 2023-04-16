@@ -1,0 +1,6 @@
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\bin\Debug\statistical_app_in_c_sharp.exe.config
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\bin\Debug\statistical_app_in_c_sharp.exe
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\bin\Debug\statistical_app_in_c_sharp.pdb
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\obj\Debug\statistical_app_in_c_sharp.csprojResolveAssemblyReference.cache
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\obj\Debug\statistical_app_in_c_sharp.exe
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\statistical_app_in_c_sharp\statistical_app_in_c_sharp\obj\Debug\statistical_app_in_c_sharp.pdb

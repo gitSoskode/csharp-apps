@@ -1,0 +1,9 @@
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\bin\Debug\simpleForm.exe.config
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\bin\Debug\simpleForm.exe
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\bin\Debug\simpleForm.pdb
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.csprojResolveAssemblyReference.cache
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.Form1.resources
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.Properties.Resources.resources
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.csproj.GenerateResource.Cache
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.exe
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\simpleForm\simpleForm\obj\Debug\simpleForm.pdb

@@ -1,0 +1,9 @@
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\bin\Debug\AgeCheckerApp.exe.config
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\bin\Debug\AgeCheckerApp.exe
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\bin\Debug\AgeCheckerApp.pdb
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.csprojResolveAssemblyReference.cache
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.Form1.resources
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.Properties.Resources.resources
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.csproj.GenerateResource.Cache
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.exe
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\AgeCheckerApp\AgeCheckerApp\obj\Debug\AgeCheckerApp.pdb

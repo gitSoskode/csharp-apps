@@ -1,0 +1,9 @@
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\bin\Debug\tutorial_pictureBox.exe.config
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.csprojResolveAssemblyReference.cache
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.Form1.resources
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.Properties.Resources.resources
+c:\users\soskode\onedrive\documents\visual studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.csproj.GenerateResource.Cache
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\bin\Debug\tutorial_pictureBox.exe
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\bin\Debug\tutorial_pictureBox.pdb
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.exe
+C:\Users\SosKode\OneDrive\Documents\Visual Studio 2015\Projects\tutorial_pictureBox\tutorial_pictureBox\obj\Debug\tutorial_pictureBox.pdb
